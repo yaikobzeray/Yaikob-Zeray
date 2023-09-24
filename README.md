@@ -151,6 +151,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jacze-dev/jacze-dev/output/snake.svg" alt="Snake animation" />
 
-###
