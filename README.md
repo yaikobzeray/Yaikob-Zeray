@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ <br>📚 I'm currently learning  in Arbaminch University, Ethiopia<br>🎯 Goals: <br>🎲 Fun fact: I'm Passionate coder, relentless worker, lifelong learner 🚀</p>
+<p align="left">📚 I'm currently learning  in Arbaminch University, Ethiopia<br>🎯 Goals: Highlight my top projects, sustain a daily contribution streak, and continuously acquire new skills in tech. <br>🎲 Fun fact: I'm Passionate coder, relentless worker, lifelong learner 🚀</p>
 
 ###
 
@@ -131,13 +131,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jacze-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacze-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jacze-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=jacze-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
